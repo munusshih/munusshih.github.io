@@ -1,2 +1,2 @@
 // similar behavior as an HTTP redirect
-window.location.replace("http://munusshih.com/");
+window.location.replace("https://munusshih.com/");
